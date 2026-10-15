@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+google-genai
+google-api-python-client
+pymupdf
+pdf2image
+pytesseract
+phonenumbers
+reportlab
+dnspython
+sqlalchemy
+supabase
+psycopg2-binary

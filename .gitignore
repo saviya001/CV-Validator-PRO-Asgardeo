@@ -1,0 +1,55 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.security.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local data and databases
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+temp/
+tmp/
+
+# Uploaded CVs and reports
+*.pdf
+*.docx
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+# Local OCR binaries and external tools
+backend/bin/
+CV-Verification-Project/backend/bin/
+
+# Old project copy - keep only the active project
+/CV-Verification-Project/
+
+# Backup files
+*.before_auth.py
+*.bak
