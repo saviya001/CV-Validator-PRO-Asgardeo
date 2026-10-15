@@ -239,6 +239,16 @@ The project demonstration is intended to cover the following workflow:
 Screenshots and a short walkthrough video will be added to the project documentation.
 
 Only synthetic or explicitly authorized sample CVs should be used for demonstrations.
+## Application Screenshots
+
+### 1. Authentication Required
+![CV Validator PRO Welcome Page](docs/screenshots/01-welcome-page.png)
+
+### 2. WSO2 Asgardeo Login
+![WSO2 Asgardeo Authentication](docs/screenshots/02-asgardeo-login.png)
+
+### 3. Authenticated Dashboard
+![CV Validator PRO Dashboard](docs/screenshots/03-authenticated-dashboard.png)
 
 ## What I Learned
 
