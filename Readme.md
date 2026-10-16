@@ -1,7 +1,7 @@
 # CV Validator PRO
 ### AI-Powered CV Analysis and Recruitment Support Platform
 
-**Secured with WSO2 Asgardeo | Built with Next.js and FastAPI**
+**Secured with  Asgardeo | Built with Next.js and FastAPI**
 
 ## About the Project
 
